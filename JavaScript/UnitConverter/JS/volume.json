@@ -1,0 +1,49 @@
+{
+"Factor" : [
+    {
+        "name": "fluid ounces",
+        "to"  : "33.814",
+        "from": "0.0295735"
+    },
+    {
+        "name": "cubic centimeters",
+        "to"  : "1000.0",
+        "from": "0.001"
+    },
+    {
+        "name": "cups",
+        "to"  : "4.22675",
+        "from": "0.236588"
+    },
+    {
+        "name": "pints",
+        "to"  : "2.11338",
+        "from": "0.473176"
+    },
+    {
+        "name": "quarts",
+        "to"  : "1.05669",
+        "from": "0.946353"
+    },
+    {
+        "name": "gallons",
+        "to"  : "0.264172",
+        "from": "3.78541"
+    },
+    {
+        "name": "liters",
+        "to"  : "1.0",
+        "from": "1.0"
+    },
+    {
+        "name": "pecks",
+        "to"  : ".113510367",
+        "from": "8.809768"
+    },
+    {
+        "name": "bushels",
+        "to"  : "0.0283775918",
+        "from": "35.239072"
+    }
+]
+}
